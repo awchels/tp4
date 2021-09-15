@@ -1,10 +1,12 @@
 h1 {
-  font-family: Arial;
-  color: green;
+  font-family: Serif;
+  color: #C1A0A7;
 }
 
 h4 {
   margin-bottom: 0;
+  font-family: Serif;
+  color: #C1A0A7;
 }
 
 ul, ol {
@@ -12,7 +14,11 @@ ul, ol {
 }
 
 .copyright {
-  font-family: Arial;
+  font-family: Serif;
   font-size: 9px;
   font-style: italic;
+}
+
+body {
+  background-color: #EEE2C6;
 }
